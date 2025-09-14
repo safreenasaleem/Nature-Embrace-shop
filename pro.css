@@ -1,0 +1,7 @@
+.banner{
+    background-image: url(banner1.jpg);
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+  
+}
